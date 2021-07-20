@@ -3,3 +3,5 @@
 **Olá! Seja bem vindo ao Livro de Receitas Simplificado**
 
 - Torta [Geral] 
+
+- Pavê
